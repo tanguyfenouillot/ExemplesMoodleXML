@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <question type="truefalse">
  <answer fraction="100">
-    <text>true</text>
+    <text>true of false</text>
     <feedback><text>Correct!</text></feedback>
  </answer>
  <answer fraction="0">
